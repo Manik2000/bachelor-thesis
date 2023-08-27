@@ -14,3 +14,5 @@ In the `notebooks` directory there are in contrast:
 * `analysis.ipynb` in which main results are generated,
 * `diversity.ipynb` containing analysis on the impact of diversity of the ensembles on the stability and quality of the results,
 * `hyperparameters_tuning.ipynb` with analysis on tuning methods' hyperparameters.
+
+Python package with methods from the thesis and other is available [here](https://github.com/Manik2000/ensemble-clustering).
